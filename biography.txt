@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+A. Douglas Sayles
 2. Why are you interested in Data Science?
+A. I've always been a hacker of tools/scripts/data and the Data Science path is the next natural progression for me.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+A. Over my life, I've taken three programming courses at a university level: BASIC, C, and Pascal in the (very) early 90s.  I have been for the most part self-taught, starting with Assembler in 80s on the Motorola instruction set and then into mostly interpreted languages/scripting environments to include HTML/CSS, Perl, R, Python, PowerShell, DOS...and my all time favorite BASH which I use for essentially anything with a CLI.    I do not use programming officially on the job, although there is always a use case to integrate BASH scripting whenever I can.  As my employer continues its digital transformation journey, some Python is integrated and I am personally weaving R into things as I learn more within that framework.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+A. I have very little statistics experience:  I have take some statistics courses in the (very) early 90s, and for the most part am self-educated through reading texts and blogs of interest.  As I've explored this program, I prepared slightly by taking a statistics refresher course at a community college.  I do not formally use statistics on the job as a requirement per se, however I continue to weave in as many aspects from statistics as I can into my daily work.  For example, if someone blithly throws together a "pie chart" to show something I'll peel the onion to get to the source of the data and re-structure things to tell a better story than what a pie chart shows.
 5.  Do you have other experience with R or Python?
+A.  I am merely self-taught yet am eager to learn properly!!
 6.  What do you hope to learn in this class?
+A. I hope to learn the fundamental basics from the ground up in a structured, continuous improvement cycle.  For me, that includes such minor things as commenting, proper psuedo code, indentation, variable name conventions, etc.  E.g. I've never been officially told to use "_" as a word separater in variable names as it easier to read and prevents mistakes.  I've just picked up on that over years of quickly munging things together
 7.  Is there anything else you would like to share with us?
+A. I'm excited to learn.  For me, I recognize that it means having to unlearn and relearn a few things...and I'm grateful for this opportunity to learn in a structured format with languages that I care about, learning techniques that I need to learn, and with some experience to known what I need to focus on. Let's admit, Pascal didn't really change the world from the basement VAX twenty-plus years ago...
