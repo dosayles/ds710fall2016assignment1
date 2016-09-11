@@ -2,7 +2,7 @@ Your first assignment is to use GitHub to submit some autobiographical informati
 1. What is your name?
 A. Douglas Sayles
 2. Why are you interested in Data Science?
-A. I've always been a hacker of tools/scripts/data and the Data Science path is the next natural progression for me.
+A. I've always been a hacker of tools/scripts/data and the Data Science path is the next natural progression for me.  I also feel that as I interpret where "things are going" in my realm, I see that the Data Science path is in the general direction of best interest for me.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
 A. Over my life, I've taken three programming courses at a university level: BASIC, C, and Pascal in the (very) early 90s.  I have been for the most part self-taught, starting with Assembler in 80s on the Motorola instruction set and then into mostly interpreted languages/scripting environments to include HTML/CSS, Perl, R, Python, PowerShell, DOS...and my all time favorite BASH which I use for essentially anything with a CLI.    I do not use programming officially on the job, although there is always a use case to integrate BASH scripting whenever I can.  As my employer continues its digital transformation journey, some Python is integrated and I am personally weaving R into things as I learn more within that framework.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
